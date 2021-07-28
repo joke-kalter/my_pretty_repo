@@ -4,3 +4,4 @@ Dit is een readme bestand, hierin kan een beschrijving gegeven worden van de bes
 
 Dit bestand is een Markdown bestand.  
 Voor een overzicht van tekstopmaak die mogelijk is met markdown, [zie deze link](https://www.markdownguide.org/basic-syntax/)
+
